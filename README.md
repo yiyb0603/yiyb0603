@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yiyb0603&count_private=true&show_icons=true&theme=buefy)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yiyb0603&count_private=true&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yiyb0603&hide=c,java)
 <br />
 
