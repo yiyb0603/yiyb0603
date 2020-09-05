@@ -21,3 +21,4 @@
   <li> <b>Vue.js</b> </li>
   <li> <b>React Native</b> </li>
   <li> <b>Electron</b> </li>
+  <li> <b>TypeORM</b> </li>
