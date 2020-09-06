@@ -13,12 +13,12 @@
   <li><b>HTML, CSS</b></li>
   <li><b>JavaScript</b></li>
   <li><b>TypeScript</b></li>
-  <li><b>React.js, MobX</b></li>
+  <li><b>TypeORM</b></li>
+  <li><b>React.js, Next.js, MobX</b></li>
   <li><b>SASS</b></li>
   <br />
   
 ✏ <b>I'm Studying now</b>
-  <li> <b>Vue.js</b> </li>
-  <li> <b>React Native</b> </li>
-  <li> <b>Electron</b> </li>
-  <li> <b>TypeORM</b> </li>
+  <li><b>Vue.js</b></li>
+  <li><b>React Native</b></li>
+  <li><b>Electron</b></li>
