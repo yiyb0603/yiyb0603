@@ -14,7 +14,8 @@
   <li><b>JavaScript</b></li>
   <li><b>TypeScript</b></li>
   <li><b>TypeORM</b></li>
-  <li><b>React.js, Next.js, MobX</b></li>
+  <li><b>React.js, MobX</b></li>
+  <li><b>Next.js</b></li>
   <li><b>SASS</b></li>
   <br />
   
