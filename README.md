@@ -5,7 +5,7 @@
 
 💻 <b>I’m currently working on</b>
   <li> <b>DGSW HighSchool (Student)</b> </li>
-  <li> <b>Team B1ND (School Crew) - FrontEnd</b> </li>
+  <li> <b>Team B1ND (School Crew) - FrontEnd Developer</b> </li>
   <li> <b>StarCraft Bot Programming (School Crew) - BWAPI java </b> </li>
   <br />
   
@@ -15,6 +15,7 @@
   <li><b>JavaScript</b></li>
   <li><b>TypeScript</b></li>
   <li><b>TypeORM</b></li>
+  <li><b>Express</b></li>
   <li><b>React.js, MobX</b></li>
   <li><b>Next.js</b></li>
   <li><b>SASS</b></li>
