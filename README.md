@@ -29,13 +29,14 @@
   <li><b>TypeScript</b></li>
   <li><b>TypeORM</b></li>
   <li><b>Express.js</b></li>
-  <li><b>React.js, MobX</b></li>
+  <li><b>React.js</b></li>
+  <li><b>Redux</b></li>
+  <li><b>MobX</b></li>
+  <li><b>Recoil</b></li>
   <li><b>Next.js</b></li>
-  <li><b>SASS</b></li>
+  <li><b>Scss</b></li>
   <br />
   
 ✏ <b>I'm Studying now</b>
   <li><b>Vue.js</b></li>
-  <li><b>React Native</b></li>
-  <li><b>Electron</b></li>
   <li><b>Nest.js</b></li>
