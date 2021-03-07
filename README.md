@@ -23,12 +23,12 @@
   <br />
   
 🛠 <b>My Working Language, Frameworks</b> 🛠
-  <li><b>C, C#, Java</b></li>
   <li><b>HTML, CSS</b></li>
   <li><b>JavaScript</b></li>
   <li><b>TypeScript</b></li>
   <li><b>TypeORM</b></li>
   <li><b>Express.js</b></li>
+  <li><b>Nest.js</b></li>
   <li><b>React.js</b></li>
   <li><b>Redux</b></li>
   <li><b>MobX</b></li>
@@ -39,4 +39,3 @@
   
 ✏ <b>I'm Studying now</b>
   <li><b>Vue.js</b></li>
-  <li><b>Nest.js</b></li>
