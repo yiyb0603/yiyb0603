@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=안녕하세요🙂&fontSize=60&fontAlignY=35)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https//github.com/yiyb0603)](https://hits.seeyoufarm.com)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yiyb0603)](https://github.com/yiyb0603)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010933171210)](https://www.facebook.com/profile.php?id=100010933171210)
@@ -8,10 +6,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yiyb0603@gmail.com)](mailto:yiyb0603@gmail.com)
 [![Velog Badge](https://img.shields.io/badge/-Velog-12B886?style=flat-square&link=https://velog.io/@yiyb0603)](https://velog.io/@yiyb0603/)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yiyb0603&count_private=true&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yiyb0603&hide=c,html)
+![codersrank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=yiyb0603&style=--header-bg-color:%2333a;--border-radius:10px)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=5&margin-w=15&margin-h=15&theme=dracula)
+![trophy](https://github-profile-trophy.vercel.app/?username=yiyb0603&row=1&column=8&margin-w=15&margin-h=15&theme=dracula)
 
 <br />
 
