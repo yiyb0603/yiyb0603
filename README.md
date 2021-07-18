@@ -20,7 +20,6 @@
   <br />
   
 🛠 <b>My Working Language, Frameworks</b> 🛠
-  <li><b>HTML, CSS</b></li>
   <li><b>JavaScript</b></li>
   <li><b>TypeScript</b></li>
   <li><b>TypeORM</b></li>
