@@ -6,8 +6,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yiyb0603@gmail.com)](mailto:yiyb0603@gmail.com)
 [![Velog Badge](https://img.shields.io/badge/-Velog-12B886?style=flat-square&link=https://velog.io/@yiyb0603)](https://velog.io/@yiyb0603/)
 
-![codersrank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=yiyb0603&style=--header-bg-color:%2333a;--border-radius:10px)
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=yiyb0603&row=1&column=8&margin-w=15&margin-h=15&theme=dracula)
 
 <br />
