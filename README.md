@@ -3,4 +3,10 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010933171210)](https://www.facebook.com/profile.php?id=100010933171210)
 [![Instagram Badge](https://img.shields.io/badge/instagram-e1306c?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yiyb0603/)](https://www.instagram.com/yiyb0603/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yiyb0603@gmail.com)](mailto:yiyb0603@gmail.com)
-[![Velog Badge](https://img.shields.io/badge/-Velog-12B886?style=flat-square&link=https://velog.io/@yiyb0603)](https://velog.io/@yiyb0603/)
+[![Blog Badge](https://img.shields.io/badge/-Blog-2196f3?style=flat-square&link=https://yiyb-blog.vercel.app)](https://yiyb-blog.vercel.app)
+
+### Careers
+- [Korea Business Connect](https://aid.bizbot.kr) Frontend Engineer (2021.07 ~ Current)
+
+### Educations
+- [Daegu Software Meister High School](https://dgsw.dge.hs.kr/dgswh/main.do?sysId=dgswh) (2019.03 ~ 2022.03)
