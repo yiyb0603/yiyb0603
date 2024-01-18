@@ -6,7 +6,7 @@
 [![Blog Badge](https://img.shields.io/badge/-Blog-2196f3?style=flat-square&link=https://yiyb-blog.vercel.app)](https://yiyb-blog.vercel.app)
 
 ### Careers
-- [Korea Business Connect](https://aid.bizbot.kr) Frontend Engineer (2021.07 ~ Current)
+- [Korea Business Connect](https://aid.bizbot.kr) Frontend Engineer (2021.07 ~ 2024.01)
 
 ### Educations
 - [Daegu Software Meister High School](https://dgsw.dge.hs.kr/dgswh/main.do?sysId=dgswh) (2019.03 ~ 2022.03)
